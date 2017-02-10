@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  color: green;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+h3 {
+  text-align: center;
+  color: red
+}
+
+.important {
+  color: red;
+}
+
+img {
+  float: right;
+}
+
+body {
+  background-color: powderblue;
+}

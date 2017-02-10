@@ -1,0 +1,45 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  background-color: rgb(255, 120, 0);
+  font-weight: bold;
+  bolder: 2px;
+  border-color: rgb(255, 0, 0);
+  font-family: monospace;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  height: 70%;
+}
+
+.highlight {
+  color: white;
+  background-color: rgb(200, 123, 80);
+  border-style: solid red;
+}
+
+h2 {
+  color: green;
+  text-weight: bold;
+  font-family: serif;
+  text-align: center;
+}
+
+.important {
+  color: red
+}
+
+p {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: powderblue;
+}
+
+img {
+  float: center;
+}
