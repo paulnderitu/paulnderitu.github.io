@@ -1,9 +1,7 @@
-#header {
-  width: 80%;
+.navbar {
+  width: 100%;
   float: auto;
-  height: 30px;
-  margin: auto;
-  padding: 5px;
+  background-color: rgb(25, 20, 55);
 }
 
 h1 {
