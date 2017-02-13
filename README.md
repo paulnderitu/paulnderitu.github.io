@@ -15,6 +15,7 @@ It offers insights about:
 ### Technologies Used
 * HTML
 * CSS
+* Bootstrap
 
 
 ## Setup
