@@ -38,6 +38,12 @@ h2 {
   color: red
 }
 
+.container {
+  width: 80%;
+  float: auto;
+  background-color: purple;
+}
+
 p {
   font-family: sans-serif;
 }
