@@ -15,6 +15,11 @@ h1 {
   font-family: monospace;
 }
 
+.navbar-brand {
+  width: auto;
+  background-color: brown;
+}
+
 .column {
   float: left;
   width: 50%;
@@ -49,4 +54,8 @@ p {
 
 body {
   background-color: powderblue;
+}
+
+e;
+
 }
