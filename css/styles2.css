@@ -10,6 +10,12 @@ h2 {
   color: red;
 }
 
+.navbar {
+  width: 100%;
+  float: auto;
+  background-color: black;
+}
+
 h3 {
   text-align: center;
   color: red
@@ -24,5 +30,6 @@ img {
 }
 
 body {
-  background-color: powderblue;
+  background-image: url("../images/bkg.jpg");
+  color: white;
 }
